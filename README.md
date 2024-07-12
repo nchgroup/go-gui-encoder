@@ -1,2 +1,11 @@
-# go-gui-encoder
-GUI Encoder for script kiddies
+# gui-encoder
+
+# Run
+```bash
+go run main.go
+```
+
+# Build
+```bash
+go build -o gui-encoder main.go
+```
